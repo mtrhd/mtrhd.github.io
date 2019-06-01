@@ -11,7 +11,7 @@ function App() {
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo"/>
                 <p>
-                    <Typed strings={['here you can find anything . . .', 'chuj chuj chuj elo elo elo ']} typeSpeed={10}/>
+                    <Typed strings={['here you can find anything . . .',]} typeSpeed={10}/>
                 </p>
             </header>
         </div>
